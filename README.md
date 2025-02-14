@@ -1,6 +1,6 @@
 ### Hi you there 🌚
 
-I try to post my work and current projects on my blog. You can check it out [here](https://ayzminy.blog) (you can get the code below)
+
 
 
 <!--

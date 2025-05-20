@@ -1,5 +1,6 @@
 ### Hi you there 🌚
 
+Blog -> [gr1m0ire.xyz](https://gr1m0ire.xyz)
 
 
 
